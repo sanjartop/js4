@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(204, 204, 204);
+}
+
+.button_one button {
+    position: relative;
+    width: 165px;
+    height: 49px;
+    top: 310px;
+    background: #000000;
+    border-radius: 5px;
+    border: #000000;
+    color: white;
+}
+
+.button_two button {
+    position: relative;
+    width: 165px;
+    height: 49px;
+    top: 325px;
+    background: #000;
+    border-radius: 5px;
+    color: white;
+    border: #000;
+}
+
+button:hover {
+    cursor: pointer;
+    background: #191920;
+}
+
+.num {
+    position: relative;
+    font-size: 50px;
+    top: 237px;
+    font-family: 'Hind Madurai', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
